@@ -1,0 +1,38 @@
+1 --> Create the Base Files:
+- Create the main index.html file.
+- Create the main style.css file.
+
+2 --> Include External Resources:
+- Add a Normalize CSS file to reset browser default styles.
+- Link the custom font(s) used in the project (e.g., Google Fonts).
+- Include the Font Awesome library for icons.
+
+3 --> Set Up Global Styles:
+- Define global CSS rules, such as box-sizing, margin, and padding.
+- Apply base styles for the html and body elements (e.g., font-family, background color, etc.).
+- Use CSS variables for consistent colors and spacing.
+
+4 --> Build the Page Structure:
+- Create a container element for the main content (e.g., <div class="container"></div>).
+- Use semantic elements such as <header>, <nav>, <section>, <footer>.
+
+5 --> Add Responsive Design Rules:
+- Implement media queries for different screen sizes to ensure the design is responsive.
+- Example breakpoints: 768px, 992px, 1200px.
+
+6 --> CSS Grid Layout:
+- Use the CSS grid property to create responsive layouts with auto-fill columns.
+- Example: grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+
+7 --> Navigation Menu:
+- Implement responsive navigation with hidden menus that appear on hover.
+
+8 --> Font and Typography:
+- Use Google Fonts for typography.
+- Apply font styles, text capitalization, and letter spacing.
+
+9 --> Hover Effects and Transitions:
+- Add hover effects with smooth transitions for better user interaction.
+
+10 --> Box Sizing:
+- Use border-box for consistent sizing of elements across the project.
